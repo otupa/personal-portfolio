@@ -1,6 +1,6 @@
-![img](https://i.imgur.com/5rgEz3a.jpg)
+<!-- ![img](https://i.imgur.com/5rgEz3a.jpg) -->
 
-Você pode acessá-lo com este [link.](https://www.rhuanbello.com/)
+Você pode acessá-lo com este [link.](https://www.marianotupa.com/)
 
 ---
 
@@ -15,7 +15,7 @@ Alguns features existentes são:
 - Responsividade para todos dispositivos;
 - Modal que busca dados de Array de objetos;
 
-Você pode acessá-lo com este [link.](https://www.rhuanbello.com/)
+<!-- Você pode acessá-lo com este [link.](https://www.rhuanbello.com/) -->
 
 ---
 
@@ -36,4 +36,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.
 
 ---
 
-Desenvolvido com 💛 por Rhuan Bello 👁️‍🗨️
+Desenvolvido com 💛 por Mariano Tupã 👁️‍🗨️
