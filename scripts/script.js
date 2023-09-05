@@ -126,7 +126,7 @@ const initTypingAnimation = () => {
     const typingAnimation = (element) => {
 
         if (element == title) {
-            element.innerHTML = 'Olá, eu sou o '
+            element.innerHTML = 'Olá, eu sou '
             const textToArray = element.innerHTML.split('')
             element.innerHTML = ''
 
@@ -135,7 +135,7 @@ const initTypingAnimation = () => {
             })
 
         } else if (element == span) {
-            element.innerHTML = 'Rhuan Bello :)'
+            element.innerHTML = 'Mariano Tupã :)'
             const textToArray = element.innerHTML.split('')
             element.innerHTML = ''
 
